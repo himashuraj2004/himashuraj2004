@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HimanshuRaj
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me insta-himanshuraj2517_
 
