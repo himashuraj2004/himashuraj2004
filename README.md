@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Raj
 - 👀 Languages I know: C,Java,Kotlin and Python
-- 🌱 Interested in App Dev and DEVops
-- 📫 2nd year CSE student
+- 🌱 Interested in App Dev and ML
+- 📫 3rd year CSE student
 
 <!---
 himashuraj2004/himashuraj2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
