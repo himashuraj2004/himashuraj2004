@@ -5,7 +5,6 @@ Welcome to my GitHub! I'm a Computer Science student passionate about **AI, Mach
 ## 🚀 Technical Skills
 - **Programming Languages:** Python, Java, Kotlin, C, SQL
 - **Machine Learning & AI:** Scikit-Learn, TensorFlow, Hugging Face Transformers
-- **Android Development:** Jetpack Compose, MVVM, Retrofit, Firebase
 - **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 - **Web Scraping:** BeautifulSoup, Requests
 - **DevOps:** Docker, Kubernetes (basic), Git & GitHub
