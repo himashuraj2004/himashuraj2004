@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a Computer Science student passionate about **AI, Mach
 - **Tools:** Jupyter Notebook, Google Colab, Android Studio
 
 ## 💼 Notable Projects
-- ✨ **AI-Powered College Academic Assistant App** – Android app with facial recognition, chatbot integration, and FastAPI backend.
+- ✨ **Bank Management System** – A desktop software to simulate ATM experience with Java and legacy technology like AWT and Swing.
 - ✨ **Bhagavad Gita Chatbot** – An NLP-powered chatbot delivering verse explanations.
 - ✨ **Web Scraping & Summarization Tool** – Automated website text extraction and AI-based summarization.
 - ✨ **Airline Price Prediction Model** – Built using Python and Scikit-Learn.
