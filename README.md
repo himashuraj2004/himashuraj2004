@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a Computer Science student passionate about **AI, Mach
 
 ## 💼 Notable Projects
 - ✨ **Bank Management System** – A desktop software to simulate ATM experience with Java and legacy technology like AWT and Swing.
-- ✨ **Bhagavad Gita Chatbot** – An NLP-powered chatbot delivering verse explanations.
+- ✨ **Sanskrit to English Trans** 
 - ✨ **Web Scraping & Summarization Tool** – Automated website text extraction and AI-based summarization.
 - ✨ **Airline Price Prediction Model** – Built using Python and Scikit-Learn.
 - ✨ **Handwritten Digit Recognition** – Neural Network implementation using TensorFlow (MNIST dataset).
